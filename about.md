@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+An online presence for the [ISMRM Reproducible Research Study Group](https://www.ismrm.org/study-groups/reproducible-research/) where we can provide information about our activities and future projects can be discussed.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
