@@ -14,6 +14,7 @@
 
 ### What are the common problems that you encounter related to reproducibility?
 
+<textarea rows="12" cols="120">
 * New models do not quantify their reproducibility enough (for example in coefficients of variation, Bland-Altman).
 * In image post-processing, the methodology sections of papers do not describe in great detail what image manipulation (processing) techniques have been applied to the raw signal to achieve the final parametric maps. Even in region of interest analysis the effect sizes when you are looking at a specific clinical application, say FA or CBF (from ASL) in Alzheimer's disease vary widely across reported studies.
 * Low confidence that published values of MR biomarkers are at all comparable between centres.
@@ -48,7 +49,7 @@ incomplete information and access to data
 * Many important details are not given in the publications
 original code and data are too often unavailable, low powered studies, questionable research practices (HARKing, p-hacking, ...)
 * Insufficient information (lack of details)
-N* o code or data availiable, therefore true comparisons are hard
+* No code or data availiable, therefore true comparisons are hard
 * researchers do not share the data and hardware is not designed to store raw data and make it available for analysis
 * The results from other groups are difficult to reproduce without access to their code.
 * Time and effort required to create code that is easy to use for those who don't write it (I've had issues trying to run other people's code, and it takes significant time for me to clean up my code when I do publish something, and I'm guessing it'd be pretty hard for someone other than myself to run)
@@ -78,3 +79,4 @@ intentionally vague schematics lacking any kind of engineering detail
 * sequences are differently implemented by vendors which makes comparison across sites difficult.
 * experiment variability (fMRI, DWI, QSM studies) due to pulse sequence difference between vendors, subject motion, and gradient heating and nonlinearity
 
+</textarea>
