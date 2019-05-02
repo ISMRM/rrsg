@@ -14,6 +14,17 @@ The results from the rest of the survey highlight that there are a number of fac
 
 <blockquote><h3>"Data and code or it didn't happen"</h3><footer>- Anonymous</footer></blockquote>
 
+
+### Browse full responses:
+
 You can read through all the answers provided to the survey [by clicking here](https://docs.google.com/forms/d/1AChuij7KAYEgJp9-7_jCnL3l7FrOMnSj_NkU6U-R7ls/viewanalytics).
 
+### Summary of responses
 
+
+![](../images/questionnaire/charts_01.png)
+![](../images/questionnaire/charts_02.png)
+![](../images/questionnaire/charts_03.png)
+![](../images/questionnaire/charts_04.png)
+![](../images/questionnaire/charts_05.png)
+![](../images/questionnaire/charts_06.png)
