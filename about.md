@@ -8,7 +8,7 @@ An online presence for the [ISMRM Reproducible Research Study Group](https://www
 
 The current committee for the RRSG (2019/2020):
 
-<table class="TFtable">
+<table class="TFtable" style="width:80%">
   <tr><td align="right"><strong> Chair </strong></td><td> Martin Uecker </td></tr>                                                  
   <tr><td align="right"><strong> Vice-chair </strong></td><td> Florian Knoll </td></tr>   
   <tr><td align="right"><strong> Secretary </strong></td><td> Nikola Stikov </td></tr>    
