@@ -1,1 +1,0 @@
-Sitemap: http://ismrm.github.io/rrsg/sitemap.xml
