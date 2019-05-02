@@ -283,6 +283,28 @@ footer {
   text-align: center;
 }
 
+/* table style from here: https://www.textfixer.com/tutorials/css-table-alternating-rows.php */
+.TFtable{
+	width:100%; 
+	border-collapse:collapse; 
+}
+.TFtable td{ 
+	padding:7px; border:#cccccc 1px solid;
+}
+/* provide some minimal visual accommodation for IE8 and below */
+.TFtable tr{
+	background: white;
+}
+/*  Define the background color for all the ODD background rows  */
+.TFtable tr:nth-child(odd){ 
+	background: white;
+}
+/*  Define the background color for all the EVEN background rows  */
+.TFtable tr:nth-child(even){
+	background: #ededed;
+}
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

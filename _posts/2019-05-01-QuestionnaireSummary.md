@@ -75,7 +75,7 @@ You can read through all the answers provided to the survey [by clicking here](h
 
 ### Are you aware of reproducibility initiatives in other fields that we might not be aware of that could help direct the RRSG efforts? (please provide links if so)
 
-<table >
+<table class="TFtable">
     <!--StartFragment-->
     <tbody>
         <tr >
@@ -196,7 +196,7 @@ You can read through all the answers provided to the survey [by clicking here](h
 
 ### What software tools are you using in your research? Are they open source?
 
-<table >
+<table class="TFtable">
       <tbody>
         <tr  >
           <td   >Software</td>
@@ -717,7 +717,7 @@ You can read through all the answers provided to the survey [by clicking here](h
         <tr  >
           <td  >SPSS</td>
           <td >1</td>
-          <td><br>
+          <td>closed<br>
           </td>
           <td >
             
