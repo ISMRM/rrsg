@@ -12,6 +12,6 @@ The current committee for the RRSG (2019/2020):
   <tr><td align="right"><strong> Chair </strong></td><td> Martin Uecker </td></tr>                                                  
   <tr><td align="right"><strong> Vice-chair </strong></td><td> Florian Knoll </td></tr>   
   <tr><td align="right"><strong> Secretary </strong></td><td> Nikola Stikov </td></tr>    
-  <tr><td align="right"><strong><em> Past-chair </strong></em></strong></td><td> Daniel Gallichan </td></tr>
+  <tr><td align="right"><strong><em> Past-chair </em></strong></td><td> Daniel Gallichan </td></tr>
   <tr><td align="right"><strong> Trainee Representative </strong></td><td> Maria Eugenia Caligiuri </td></tr>    
 </table>
