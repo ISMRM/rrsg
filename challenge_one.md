@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reproducibility Challenge 1 - Arbitrary SENSE
+title: Reproducibility Challenge 1 - SENSE with arbitrary k-space trajectories
 permalink: /challenge_one/
 ---
 
