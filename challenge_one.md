@@ -25,7 +25,7 @@ Klaas P. Pruessmann, Markus Weiger, Peter Börnert, Peter Boesiger. [Advances in
 We provided two example datasets, brain (12 receive channels, 96 radial projections) and cardiac (34 receive channels, 55 radial projections), from a radial trajectory acquired with multi-channel coils. The data is provided in the h5 format, and we are following the conventions of the BART toolbox regarding array dimensions of the raw data [1, Readout, Spokes, Channels] and the trajectory [3, Readout, Spokes] where the first dimension encodes the k-space coordinate (for 2D acquisitions the third coordinate is always zero) and the unit of measurement is 1 / FOV.
 
 <figure>
-<img src="https://github.com/ISMRM/rrsg/blob/master/challenges/challenge_01/figure1.png" alt="Figure1" /><figcaption><strong>Figure 1:</strong> Raw k-space data from one coil and a gridding sum of squares example reconstruction of the provided brain (left) and cardiac (right) data</figcpation>
+<img src="https://github.com/ISMRM/rrsg/blob/master/challenges/challenge_01/figure1.png" alt="Figure1" /><figcaption><strong>Figure 1:</strong> Raw k-space data from one coil and a gridding sum of squares example reconstruction of the provided brain (left) and cardiac (right) data</figcaption>
 </figure>
 
 
