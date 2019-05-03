@@ -15,13 +15,18 @@ The detailed submission instructions [can be found here for reference](https://b
 
 ## Submissions
 
-<table class="TFtable">
-      <tbody>
+<table style="width:100%" class="TFtable">
+	<col style="width:40%">
+	<col style="width:30%">
+	<col style="width:30%">
+<thead>
         <tr>
-          <td>Authors</td>
-          <td>Link</td>
-          <td>Info</td>
+           <th>Authors</th>
+          <th>Link</th>
+          <th>Info</th>
         </tr>
+</thead>       
+        <tbody>
         <tr>
           <td>Steven
               Baete (NYU) <br>
