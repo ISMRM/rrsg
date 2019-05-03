@@ -15,10 +15,11 @@ The detailed submission instructions [can be found here for reference](https://b
 
 ## Submissions
 
+
 <table style="width:100%" class="TFtable">
-	<col style="width:40%">
-	<col style="width:30%">
-	<col style="width:30%">
+	<col style="width:40%" />
+	<col style="width:30%" />
+	<col style="width:30%" />
 <thead>
         <tr>
            <th>Authors (or principal author)</th>
@@ -29,12 +30,12 @@ The detailed submission instructions [can be found here for reference](https://b
         <tbody>
         <tr>
           <td>Steven
-              Baete (NYU) <br>
+              Baete (NYU) <br />
               </td>
           <td>
             
-            <a href="https://bitbucket.org/sbaete/ismrm2019reprodcgsense/src/master/">https://bitbucket.org/sbaete/ismrm2019reprodcgsense/src/master/</a></td>
-          <td>MATLAB, NUFFT (Fessler), gpuNUFFT (Schwarzl, Knoll)<br>
+            <a href="https://bitbucket.org/sbaete/ismrm2019reprodcgsense">https://bitbucket.org/sbaete/ismrm2019reprodcgsense</a></td>
+          <td>MATLAB, NUFFT (Fessler), gpuNUFFT (Schwarzl, Knoll)<br />
           </td>
         </tr>
         <tr>
@@ -46,22 +47,22 @@ The detailed submission instructions [can be found here for reference](https://b
             
             <a href="https://github.com/fyrdahl/rrsg_challenge">https://github.com/fyrdahl/rrsg_challenge</a>
           </td>
-          <td>MATLAB, NUFFT (Fessler)<br>
+          <td>MATLAB, NUFFT (Fessler)<br />
           </td>
         </tr>
         <tr>
           <td>Kerstin
               Hammernik (Graz University of Technology)</td>
           <td><a href="https://github.com/khammernik/ISMRM2019_RRSG">https://github.com/khammernik/ISMRM2019_RRSG</a></td>
-          <td>Python, BART, primal-dual-toolbox, medutils<br>
+          <td>Python, BART, primal-dual-toolbox, medutils<br />
           </td>
         </tr>
         <tr>
           <td>Seb
-              Harrevelt (Eindhoven University of Technology)<br>
+              Harrevelt (Eindhoven University of Technology)<br />
               </td>
           <td><a href="https://github.com/zwep/ismrm19_challenge">https://github.com/zwep/ismrm19_challenge</a></td>
-          <td>Python, PyNUFFT (Lin),&nbsp; <br>
+          <td>Python, PyNUFFT (Lin),&nbsp; <br />
           </td>
         </tr>
         <tr>
@@ -71,7 +72,7 @@ The detailed submission instructions [can be found here for reference](https://b
             
             <a href="https://drive.google.com/file/d/10qD6K-sCEkNjpynRZTpLm8VBUPJFhJCt/view">https://drive.google.com/file/d/10qD6K-sCEkNjpynRZTpLm8VBUPJFhJCt/view</a>
           </td>
-          <td>MATLAB, custom MEX for gridding<br>
+          <td>MATLAB, custom MEX for gridding<br />
           </td>
         </tr>
         <tr>
@@ -82,17 +83,17 @@ The detailed submission instructions [can be found here for reference](https://b
             <a href="https://github.com/giladddd/LinopScript">https://github.com/giladddd/LinopScript</a>
           </td>
           <td>MATLAB, <em>Demo of linear-operator scripting for BART on
-              challenge datasets</em><br>
+              challenge datasets</em><br />
           </td>
         </tr>
         <tr>
-          <td>Michael Loecher (Stanford)<br>
+          <td>Michael Loecher (Stanford)<br />
           </td>
           <td>
             
             <a href="https://github.com/mloecher/rrsg_challenge">https://github.com/mloecher/rrsg_challenge</a>
           </td>
-          <td>Python, custom Cython for gridding<br>
+          <td>Python, custom Cython for gridding<br />
           </td>
         </tr>
         <tr>
@@ -102,7 +103,7 @@ The detailed submission instructions [can be found here for reference](https://b
             
             <a href="https://github.com/MaierOli2010/ISMRM_RRSG">https://github.com/MaierOli2010/ISMRM_RRSG</a>
           </td>
-          <td>Python, BART, requires GPU for use of GPyFFT<br>
+          <td>Python, BART, requires GPU for use of GPyFFT<br />
           </td>
         </tr>
         <tr>
@@ -115,38 +116,38 @@ The detailed submission instructions [can be found here for reference](https://b
             
             <a href="https://github.com/mrtm-zurich/rrsg-arbitrary-sense">https://github.com/mrtm-zurich/rrsg-arbitrary-sense</a>
           </td>
-          <td>MATLAB, custom gridding in MATLAB<br>
+          <td>MATLAB, custom gridding in MATLAB<br />
           </td>
         </tr>
         <tr>
-          <td>Ludger Starke (MDC-Berlin)<br>
+          <td>Ludger Starke (MDC-Berlin)<br />
           </td>
           <td>
             
-            <a href="https://github.com/ISMRM/rrsg/blob/master/challenges/challenge_01/reproducibleResearch19_LudgerStarke.zip">https://github.com/ISMRM/rrsg/blob/master/challenges/challenge_01/reproducibleResearch19_LudgerStarke.zip</a>
+            <a href="https://github.com/ISMRM/rrsg/blob/master/challenges/challenge_01/reproducibleResearch19_LudgerStarke.zip">.../reproducibleResearch19_LudgerStarke.zip</a>
           </td>
-          <td>MATLAB, BART<br>
+          <td>MATLAB, BART<br />
           </td>
         </tr>
         <tr>
-          <td>Ye Tian (UCAIR - University of Utah)<br>
+          <td>Ye Tian (UCAIR - University of Utah)<br />
           </td>
           <td>
             
             <a href="https://github.com/YeTianMRI/ISMRM-2019-reproducible">https://github.com/YeTianMRI/ISMRM-2019-reproducible</a>
           </td>
-          <td>MATLAB, NUFFT (Fessler)<br>
+          <td>MATLAB, NUFFT (Fessler)<br />
           </td>
         </tr>
         <tr>
           <td>Ke Wang, Miki Lustig, Ekin Karasan, Suma Anand, Volert Roeloffs
-            (Berkeley)<br>
+            (Berkeley)<br />
           </td>
           <td>
             
             <a href="https://github.com/KeWang0622/rrsg_challenge_sigpy">https://github.com/KeWang0622/rrsg_challenge_sigpy</a>
           </td>
-          <td>Python, SigPy (Ong)<br>
+          <td>Python, SigPy (Ong)<br />
           </td>
         </tr>
       </tbody>
