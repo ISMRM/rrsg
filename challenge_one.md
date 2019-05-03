@@ -16,7 +16,7 @@ The detailed submission instructions [can be found here for reference](https://b
 ## Submissions
 
 
-<table style="width:100%" class="TFtable">
+<table style="width:100%; font-size:80%" class="TFtable">
 	<col style="width:40%" />
 	<col style="width:30%" />
 	<col style="width:30%" />
