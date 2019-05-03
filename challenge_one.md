@@ -13,8 +13,32 @@ In April 2019 the RRSG challenged the ISMRM community to reproduce the results f
 
 The detailed submission instructions [can be found here for reference](https://blog.ismrm.org/2019/04/02/ismrm-reproducible-research-study-group-2019-reproduce-a-seminal-paper-initiative/).
 
+## Challenge #1 - Arbitrary SENSE
+
+The paper selected for this challenge, which participants were asked to reproduce:
+
+Klaas P. Pruessmann, Markus Weiger, Peter Börnert, Peter Boesiger. [Advances in sensitivity encoding with arbitrary k-space trajectories](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.1241). Magn Reson Med. (2001); 46(4):638-51.
+
+
+## The data
+
+We provided two example datasets, brain (12 receive channels, 96 radial projections) and cardiac (34 receive channels, 55 radial projections), from a radial trajectory acquired with multi-channel coils. The data is provided in the h5 format, and we are following the conventions of the BART toolbox regarding array dimensions of the raw data [1, Readout, Spokes, Channels] and the trajectory [3, Readout, Spokes] where the first dimension encodes the k-space coordinate (for 2D acquisitions the third coordinate is always zero) and the unit of measurement is 1 / FOV.
+
+<figure>
+<img src="https://github.com/ISMRM/rrsg/blob/master/challenges/challenge_01/figure1.png" alt="Figure1" /><figcaption><strong>Figure 1:</strong> Raw k-space data from one coil and a gridding sum of squares example reconstruction of the provided brain (left) and cardiac (right) data</figcpation>
+</figure>
+
+
+Brain data (5.3 MB): [rawdata\_brain\_radial\_6proj\_12ch.h5](https://github.com/ISMRM/blob/master/rrsg/challenges/challenge_01/rawdata_brain_radial_96proj_12ch.h5): rawdata: [1, 512, 96, 12], trajectory: [1, 512, 96]
+
+Cardiac data (5 MB): [rawdata\_heart\_radial\_55proj_34ch.h5](https://github.com/ISMRM/rrsg/blob/master/challenges/challenge_01/rawdata_heart_radial_55proj_34ch.h5): rawdata: [1, 320, 55, 34], trajectory: [1, 320, 55]
+
+We also provided starter-scripts for MATLAB and Python which are able to read in and display the data. These scripts are also [available from the Github repository](https://github.com/ISMRM/rrsg/tree/master/challenges/challenge_01).
+
+
 ## Submissions
 
+Collated list of submissions - May 2019:
 
 <table style="width:100%; font-size:80%" class="TFtable">
 	<col style="width:40%" />
@@ -124,7 +148,7 @@ The detailed submission instructions [can be found here for reference](https://b
           </td>
           <td>
             
-            <a href="https://github.com/ISMRM/rrsg/blob/master/challenges/challenge_01/reproducibleResearch19_LudgerStarke.zip">.../reproducibleResearch19_LudgerStarke.zip</a>
+            <a href="https://github.com/ISMRM/rrsg/blob/master/challenges/challenge_01/hosted_submissions/reproducibleResearch19_LudgerStarke.zip">.../reproducibleResearch19_LudgerStarke.zip</a>
           </td>
           <td>MATLAB, BART<br />
           </td>
