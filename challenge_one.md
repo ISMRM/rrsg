@@ -21,8 +21,8 @@ The detailed submission instructions [can be found here for reference](https://b
 	<col style="width:30%">
 <thead>
         <tr>
-           <th>Authors</th>
-          <th>Link</th>
+           <th>Authors (or principal author)</th>
+          <th style="max-width:150px; word-wrap:break-word;">Link</th>
           <th>Info</th>
         </tr>
 </thead>       
