@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reproducibility Challenge #1 - Arbitrary SENSE
+title: Reproducibility Challenge 1 - Arbitrary SENSE
 permalink: /challenge_one/
 ---
 
@@ -13,7 +13,7 @@ In April 2019 the RRSG challenged the ISMRM community to reproduce the results f
 
 The detailed submission instructions [can be found here for reference](https://blog.ismrm.org/2019/04/02/ismrm-reproducible-research-study-group-2019-reproduce-a-seminal-paper-initiative/).
 
-## Challenge #1 - Arbitrary SENSE
+## The paper
 
 The paper selected for this challenge, which participants were asked to reproduce:
 
