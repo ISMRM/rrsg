@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Reproducibility Challenge 1 - SENSE with arbitrary k-space trajectories
+author: Daniel Gallichan
 permalink: /challenge_one/
 ---
 
